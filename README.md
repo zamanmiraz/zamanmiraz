@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I am currently working as a Research Scientist specializing in Data Engineering and Machine Learning.
+- 🔭 I am currently working as a Research Scientist specializing in Data Science/Machine Learning.
 
 <!--
 **zamanmiraz/zamanmiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
