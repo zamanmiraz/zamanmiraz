@@ -8,7 +8,6 @@
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&color=4479A1)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
 ![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&color=363636)
-
 ![PyTorch](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&color=013243)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=150458)
@@ -16,7 +15,6 @@
 ![YOLO](https://img.shields.io/badge/CV-YOLO-informational?style=flat&color=FFBB00)
 ![Ray](https://img.shields.io/badge/Distributed-Ray-informational?style=flat&color=007FFF)
 ![Gymnasium](https://img.shields.io/badge/ReinforcementLearning-Gymnasium-informational?style=flat&color=DD6B20)
-
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![OpenDSS](https://img.shields.io/badge/Tool-OpenDSS-informational?style=flat&color=00599C)
 ![Intel SGX](https://img.shields.io/badge/Security-Intel%20SGX-informational?style=flat&color=0071C5)
