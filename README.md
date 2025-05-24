@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Miraz!
 - 📧 mirazzaman@outlook.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mirazzaman)  
 - 📍 Louisville, KY, US
 
 
