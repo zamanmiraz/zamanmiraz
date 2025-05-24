@@ -1,4 +1,8 @@
 ## 👋 Hi there, I'm Miraz!
+- 📧 mirazzaman@outlook.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mirazzaman)  
+- 📍 Louisville, KY, US
+
 
 🎯 I’m working as a Research Scientist specializing in **Data Science, Machine Learning, and AI**, with a PhD in Computational Analysis & Modeling and a strong foundation in Computer Science and Mathematics.
 
@@ -37,8 +41,6 @@
 - 🧠 **AI for Smart Energy**: ML models for DER system anomaly detection and control strategy adaptation
 
 ### 📫 Let's Connect
-- 📍 Louisville, KY | 🌐 [LinkedIn](https://www.linkedin.com/in/mirazzaman)  
-- 📧 mirazzaman@outlook.com
 
 > “Turning real-world data into scalable AI solutions.”
 
