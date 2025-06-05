@@ -34,7 +34,7 @@
 - ⚡ Designing **Reinforcement Learning environments** for smart grid control and optimization using OpenDSS & Gymnasium
 
 ### 🚀 Projects I work
-- 🔍 **Computer Vision Models**: Object detection and segmentation with YOLOv5/SAM on video data (fire ignition)
+- 🔍 **Computer Vision Models**: Object detection and segmentation with YOLO/SAM on video data (fire ignition)
 - 🌐 **Reinforcement Learning**: Simulations and policy optimization for DOE-sponsored power systems
 - 🔐 **Cyber-Physical Intrusion Detection**: Lightweight real-time IDS with hybrid data streams and auto-healing control
 - 🧠 **AI for Smart Energy**: ML models for DER system anomaly detection and control strategy adaptation
