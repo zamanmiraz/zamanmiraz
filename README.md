@@ -41,7 +41,7 @@
 
 ### 📫 Let's Connect
 
-> “Turning real-world data into scalable AI solutions.”
+> “May our gradients - yours, mine, and ours - never be saturated”
 
 
 <!--
